@@ -11,7 +11,8 @@ DOMAIN-SUFFIX,wkyzt.com
 #DOMAIN-KEYWORD,baidu
 
 # IP段匹配
-IP-CIDR,197.168.0.0/16,no-resolve
+IP-CIDR,197.168.18.0/24,no-resolve
+
 #IP-CIDR,197.168.0.0/16,no-resolve
 #IP-CIDR,192.168.88.0/24,no-resolve
 #IP-CIDR,192.168.10.0/24,no-resolve
