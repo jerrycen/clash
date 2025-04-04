@@ -12,16 +12,16 @@ DOMAIN-SUFFIX,wkyzt.com
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,197.168.0.0/16,home-ss,no-resolve
-IP-CIDR,192.168.88.0/24,home-ss,no-resolve
-IP-CIDR,192.168.10.0/24,home-ss,no-resolve
-IP-CIDR,192.168.8.0/24,home-ss,no-resolve
-IP-CIDR,172.169.0.0/16,home-ss,no-resolve
-IP-CIDR,172.30.0.0/16,home-ss,no-resolve
-IP-CIDR,192.168.202.0/24,home-ss,no-resolve
-IP-CIDR,192.168.203.0/24,home-ss,no-resolve
-IP-CIDR,192.168.204.0/24,home-ss,no-resolve
-IP-CIDR,192.168.205.0/24,home-ss,no-resolve
+IP-CIDR,197.168.0.0/16,no-resolve
+IP-CIDR,192.168.88.0/24,no-resolve
+IP-CIDR,192.168.10.0/24,no-resolve
+IP-CIDR,192.168.8.0/24,no-resolve
+IP-CIDR,172.169.0.0/16,no-resolve
+IP-CIDR,172.30.0.0/16,no-resolve
+IP-CIDR,192.168.202.0/24,no-resolve
+IP-CIDR,192.168.203.0/24,no-resolve
+IP-CIDR,192.168.204.0/24,no-resolve
+IP-CIDR,192.168.205.0/24,no-resolve
 
 # 国内DNS
 #DOMAIN-SUFFIX,dns.alidns.com
