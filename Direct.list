@@ -10,6 +10,7 @@ DOMAIN,checkip.dyndns.com
 DOMAIN-SUFFIX,wkyzt.com
 DOMAIN-SUFFIX,gtwgi.com
 DOMAIN-SUFFIX,ycc001.com
+DOMAIN-SUFFIX,weixin.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
