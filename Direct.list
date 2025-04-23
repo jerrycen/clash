@@ -3,9 +3,9 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,twilio.com
-DOMAIN,client.amplifi.com
-DOMAIN,static.ubnt.com
+#DOMAIN-SUFFIX,twilio.com
+#DOMAIN,client.amplifi.com
+#DOMAIN,static.ubnt.com
 DOMAIN,checkip.dyndns.com
 DOMAIN-SUFFIX,wkyzt.com
 DOMAIN-SUFFIX,gtwgi.com
