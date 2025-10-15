@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ycc001.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,right.com.cn
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,ui.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
