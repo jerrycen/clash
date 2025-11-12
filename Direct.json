@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "time.windows.com",
+        "twilio.com",
+        "client.amplifi.com",
+        "static.ubnt.com",
+        "checkip.dyndns.com",
+        "gtwgi.com",
+        "ycc001.com",
+        "weixin.com",
+        "right.com.cn",
+        "deepseek.com",
+        "ui.com"
+      ]
+    }
+  ]
+}
