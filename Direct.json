@@ -1,12 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "rules": [
     {
       "domain_suffix": [
         "time.windows.com",
-        "twilio.com",
-        "client.amplifi.com",
-        "static.ubnt.com",
         "checkip.dyndns.com",
         "gtwgi.com",
         "ycc001.com",
